@@ -1,0 +1,6 @@
+O que é um objeto?
+
+OBJETO: coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas características, comportamentos e estado atual.
+
+CLASSE: Define os atributos e métodos comuns que serão compartilhados por um objeto.
+
